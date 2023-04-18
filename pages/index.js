@@ -133,7 +133,7 @@ export default function Home() {
                   letterSpacing={"0.06rem"}
                   lineHeight={"1.7em"}
                 >
-                  これはサンプルテキストです。これはサンプルテキストです。こ。
+                  これはサンプルテキストです。これはサンプルテキストです。git 
                 </Text>
               </Box>
               <Image
