@@ -41,6 +41,7 @@ export default function Home() {
       <Head>
         <title>ホームページ作成体験会用サンプル</title>
         <meta name="description" content="HP作成会用のサンプルページ" />
+        {/* ページ名Onタブ */}
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -137,7 +138,7 @@ export default function Home() {
                 </Text>
               </Box>
               <Image
-                src="https://images.unsplash.com/photo-1680913526064-d49073fc58f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+                src="https://images.unsplash.com/photo-1681648348605-3cb5c3627abf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
                 width={"600px"}
               />
             </Flex>
